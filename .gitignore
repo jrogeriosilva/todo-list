@@ -1,0 +1,13 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de build do Tailwind CSS
+dist/
+
+# Configurações do IDE
+.vscode/
